@@ -5,3 +5,13 @@
 2. Operator branch 에는 Step02_연산자 코드가 담겨있습니다.
 
 3. ControlFlow branch 에는 Step03_제어문 코드가 담겨있습니다. 
+
+4. Method branch 에는 Step04_메서드 코드가 담겨있습니다.
+
+5. Array branch 에는 Step05_배열 코드가 담겨있습니다.
+
+6. Object branch 에는 Step06_객체 코드가 담겨있습니다.
+
+7. Constructor branch 에는 Step07_생성자 코드가 담겨있습니다.
+
+8. Inheritance branch 에는 Step08_상속 코드가 담겨있습니다.
