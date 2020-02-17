@@ -15,3 +15,5 @@
 7. Constructor branch 에는 Step07_생성자 코드가 담겨있습니다.
 
 8. Inheritance branch 에는 Step08_상속 코드가 담겨있습니다.
+
+9. Static branch 에는 Step09_스테틱 코드가 담겨있습니다.
